@@ -1,0 +1,21 @@
+Dogtags:
+python dogtag_short.py -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short -s -1
+python dogtag_short.py -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences -s 2
+
+
+EMBEDDER:
+python embedder.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short/str -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_embeddings
+Running - python embedder.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/str -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_embeddings
+
+
+TopX Pairs:
+python TopX_pairs.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_top10pairs -k 10
+
+
+Top1 Pairs
+python Top1_pairs.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top1
+
+
+GENAI:
+    Check output:
+        python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/genai/dogtag_short_top10pairs_select/
