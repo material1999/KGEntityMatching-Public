@@ -1,3 +1,5 @@
+import os
+import requests
 
 graphs = {
     "starwars": "http://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v3/suite/starwars-swg/component/source/",
@@ -9,11 +11,6 @@ graphs = {
     "stexpanded": "http://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v3/suite/memoryalpha-stexpanded/component/target/",
     "memorybeta": "http://oaei.webdatacommons.org/tdrs/testdata/persistent/knowledgegraph/v3/suite/memoryalpha-memorybeta/component/target/",
 }
-
-import os
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
 
 def download_file(name, url):

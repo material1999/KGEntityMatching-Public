@@ -30,7 +30,7 @@ def sentence_embed(text_container, model_name="BAAI/bge-large-en-v1.5", gpu=Fals
 parser = argparse.ArgumentParser()
 parser.add_argument("-f", "--folder", help="Input folder name")
 parser.add_argument("-o", "--output", help="Output folder")
-parser.add_argument("-m", "--model", default="BAAI/bge-large-en-v1.5", help="Output folder")
+parser.add_argument("-m", "--model", default="BAAI/bge-large-en-v1.5", help="Model name")
 # parser.add_argument("-t", '--think', action='store_true', help='Does the prompts have </think> in it to be splitted out')
 parser.add_argument("-g", '--gpu', action='store_true', help='gpu or cpu')
 

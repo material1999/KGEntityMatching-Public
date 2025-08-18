@@ -7,6 +7,7 @@ from sentence_transformers.util import cos_sim
 import argparse
 from utils.dedup import select_max_similarity
 from utils.eval import evaluate_preds_extended_discard
+from collections import defaultdict
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-f", "--folder", help="Embeddings folder name")
@@ -40,13 +41,13 @@ for gold in golds:
     g2_torch_embeds = torch.Tensor(list(g2_embedding.values()))
     top_pairs = util.semantic_search(g1_torch_embeds, g2_torch_embeds, top_k=args.topk)
 
-    top_pairs_dict = dict()
+    top_pairs_dict = defaultdict(list)
     g2_keys = list(g2_embedding.keys())
     g1_keys = list(g1_embedding.keys())
 
-    for a, b in zip(list(g1_embedding.keys()), top_pairs):
-        element = b[0]
-        top_pairs_dict[str(a)] = [g2_keys[element["corpus_id"]], element["score"]]
+    for a, pairs in zip(list(g1_embedding.keys()), top_pairs):
+        for pair in pairs:
+            top_pairs_dict[str(a)].append([g2_keys[pair["corpus_id"]], pair["score"]])
 
     # Save TopX Pairs
     with open(os.path.join(args.output, f"{g1}-{g2}.json"), "w") as f:

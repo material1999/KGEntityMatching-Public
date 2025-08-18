@@ -94,6 +94,7 @@ def sample_list(input_list, max_samples=100):
 
 exclusion = ["filepath", ".gif", ".jpg", ".png", ".svg", "jpeg"]
 
+
 def exclude_node(node_name, exclusion):
     node_name_lower = node_name.lower()
     for excl in exclusion:
@@ -102,6 +103,7 @@ def exclude_node(node_name, exclusion):
     if "http" not in node_name_lower and "https" not in node_name_lower:
         return True
     return False
+
 
 graphs_names = list(filter(lambda x: x.endswith(".triples"), os.listdir(graph_folder_path)))
 

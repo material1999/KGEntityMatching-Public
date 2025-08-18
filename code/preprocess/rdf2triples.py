@@ -18,7 +18,7 @@ def convert2edgelist(path, filename, output_path):
 
     id_dict = dict()
     print("Converting to edgelist...")
-    with open(os.path.join(output_path, path.replace(".xml", ".triples")), "w") as f:
+    with open(os.path.join(output_path, filename.replace(".xml", ".triples")), "w") as f:
         for s, p, o in source_graph.triples((None, None, None)):
             s_s = str(s)
             p_s = str(p)
@@ -41,7 +41,7 @@ def convert2edgelist(path, filename, output_path):
 
 
 graphs_folder = os.path.join(os.getcwd(), "graphs")
-preprocessed_folder = os.path.join(os.getcwd(), "preprocessed_graphs")
+preprocessed_folder = os.path.join(os.getcwd(), "graphs")
 
 for graph_file in os.listdir(graphs_folder):
     if not graph_file.endswith(".xml"):

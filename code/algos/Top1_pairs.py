@@ -29,8 +29,9 @@ for gold in golds:
         topXpairs = json.load(f)
 
     pairs = list()
-    for k, v in topXpairs.items():
-        pairs.append([k, v[0], v[1]])
+    for k, toppairs in topXpairs.items():
+        top1pair = toppairs[0]
+        pairs.append([k, top1pair[0], top1pair[1]])
 
     pairs = select_max_similarity(pairs)
     pairs_only = [[row[0], row[1]] for row in pairs]

@@ -24,7 +24,6 @@ def load_graph(name):
         name = name.replace("marvelcinematicuniverse", "mcu")
     if not name.endswith(".triples"):
         name += ".triples"
-
     current_graph_path = os.path.join(graph_folder_path, name)
     graph = nx.read_edgelist(current_graph_path,
                              delimiter="###",

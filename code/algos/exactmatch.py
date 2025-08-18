@@ -16,9 +16,9 @@ def write_output(output_path, graph_pair, run_name, container):
         json.dump(container, f)
 
 
-graph_pairs = list(filter(lambda x: ".xml" in x, os.listdir(gold_folder_path)))
+graph_pairs = os.listdir(gold_folder_path)
 
-output_path = "/home/kardosp/entity_alignment/kg_entity_alignment_2024/outputs/summary/exactmatch_all"
+output_path = "/home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/exactmatch_all"
 # run_name = "label"
 # run_name = "altlabel"
 run_name = "label_altlabel"
@@ -27,8 +27,7 @@ run_name = "label_altlabel"
 edge_names = ["http://www.w3.org/2000/01/rdf-schema#label", "http://www.w3.org/2004/02/skos/core#altLabel"]
 
 for graph_pair in graph_pairs:
-    graph1, graph2 = graph_pair.split("-")
-    graph2 = graph2.replace(".xml", "")
+    graph1, graph2 = graph_pair.split(".")[0].split("-")
     print(graph1, graph2)
 
     g1, g1_name2id = load_graph(graph1)

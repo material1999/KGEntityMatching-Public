@@ -115,7 +115,7 @@ def get_prompt(anchor, candidates, method):
         raise ValueError("Method must be 1 or 2")
 
 
-golds = list(filter(lambda x: ".xml" in x, os.listdir(os.path.split(gold_folder_path)[0])))
+graph_pairs = os.listdir(gold_folder_path)
 if not os.path.exists(args.output):
     os.makedirs(args.output)
 
@@ -123,10 +123,10 @@ print("Pairs:", args.pairs)
 print("Dogtags:", args.dogtag)
 print("Output path:", args.output)
 
-for gold in golds:
-    print(gold)
+for graph_pair in graph_pairs:
+    print(graph_pair)
 
-    g1, g2 = gold.replace(".xml", "").split("-")
+    g1, g2 = graph_pair.replace(".json", "").split("-")
     if g1 == "marvelcinematicuniverse":
         g1 = "mcu"
     with open(os.path.join(args.pairs, f"{g1}-{g2}.json"), "r") as f:
@@ -143,7 +143,7 @@ for gold in golds:
 
     input_rows = list()
 
-    for startnode, options in pairs.items():
+    for startnode, options in tqdm(pairs.items()):
         startnode_dogtag = g1_dogtags[startnode]
         options_dogtags = [g2_dogtags[element[0]] for element in options]
 
