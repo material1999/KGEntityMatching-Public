@@ -22,8 +22,8 @@ for file in files:
     small = filename.split("-")[0]
     big = filename.split("-")[1]
 
-    with open(input_path) as emf:
-        exact_match = json.load(emf)
+    with open(input_path, "r") as f:
+        exact_match = json.load(f)
 
     keep_exact_match = list()
     exact_match_rightleft_dict = dict()

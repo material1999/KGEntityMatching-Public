@@ -21,9 +21,9 @@ for pair_file in pair_files:
     if g1 == "marvelcinematicuniverse":
         g1 = "mcu"
 
-    pair_file_gold = pair_file.replace("mcu-", "marvelcinematicuniverse-")
-    loaded_gold = load_gold(pair_file_gold.replace(".json", ".xml"))
-    loaded_gold = loaded_gold[0]
+    #pair_file_gold = pair_file.replace("mcu-", "marvelcinematicuniverse-")
+    # loaded_gold = load_gold(pair_file_gold.replace(".json", ".xml"))
+    loaded_gold = load_gold(pair_file)
 
     with open(os.path.join(args.pairs, pair_file), "r") as f:
         parsed_pairs = json.load(f)

@@ -126,6 +126,9 @@ for graph_name in graphs_names:
             continue
 
         edge_container = defaultdict(set)
+        
+        if "wikia" not in node:
+            continue
 
         element = get_neighbours(node, graph, name2id, id2name)
         element = list(filter(lambda x: x[1] in list(type_priority.keys()), element))
