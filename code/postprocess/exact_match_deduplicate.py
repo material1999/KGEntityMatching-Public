@@ -26,10 +26,14 @@ for file in files:
         exact_match = json.load(emf)
 
     keep_exact_match = list()
-
     exact_match_rightleft_dict = dict()
+    exact_matches = list()
 
     for em in exact_match:
+        if em[0].split("/")[4] == em[1].split("/")[4]:
+            exact_matches.append(em)
+
+    for em in exact_matches:
         if em[1] in exact_match_rightleft_dict:
             exact_match_rightleft_dict[em[1]].append(em[0])
         else:
@@ -37,11 +41,8 @@ for file in files:
 
     for k, v in exact_match_rightleft_dict.items():
         if len(v) > 1:
-            type_right = k.split("/")[4]
-            keep_left = [item for item in v if item.split("/")[4] == type_right]
-            if len(keep_left) > 0:
-                best_match, score, _ = process.extractOne(k, keep_left, scorer=fuzz.ratio)
-                keep_exact_match.append([best_match, k])
+            best_match, score, _ = process.extractOne(k, v, scorer=fuzz.ratio)
+            keep_exact_match.append([best_match, k])
         else:
             keep_exact_match.append([v[0], k])
 
@@ -57,11 +58,8 @@ for file in files:
 
     for k, v in exact_match_leftright_dict.items():
         if len(v) > 1:
-            type_left = k.split("/")[4]
-            keep_right = [item for item in v if item.split("/")[4] == type_left]
-            if len(keep_right) > 0:
-                best_match, score, _ = process.extractOne(k, keep_right, scorer=fuzz.ratio)
-                keep_exact_match.append([k, best_match])
+            best_match, score, _ = process.extractOne(k, v, scorer=fuzz.ratio)
+            keep_exact_match.append([k, best_match])
         else:
             keep_exact_match.append([k, v[0]])
 
