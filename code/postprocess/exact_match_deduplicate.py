@@ -35,12 +35,6 @@ for file in files:
         else:
             exact_match_rightleft_dict[em[1]] = [em[0]]
 
-    count_rightleft_duplicates = 0
-
-    for k, v in exact_match_rightleft_dict.items():
-        if len(v) > 1:
-            count_rightleft_duplicates += 1
-
     for k, v in exact_match_rightleft_dict.items():
         if len(v) > 1:
             type_right = k.split("/")[4]
@@ -59,12 +53,6 @@ for file in files:
         else:
             exact_match_leftright_dict[kem[0]] = [kem[1]]
 
-    count_leftright_duplicates = 0
-
-    for k, v in exact_match_leftright_dict.items():
-        if len(v) > 1:
-            count_leftright_duplicates += 1
-
     keep_exact_match = list()
 
     for k, v in exact_match_leftright_dict.items():
@@ -76,30 +64,6 @@ for file in files:
                 keep_exact_match.append([k, best_match])
         else:
             keep_exact_match.append([k, v[0]])
-
-    exact_match_leftright_dict = dict()
-    exact_match_rightleft_dict = dict()
-
-    for em in keep_exact_match:
-        if em[0] in exact_match_leftright_dict:
-            exact_match_leftright_dict[em[0]].append(em[1])
-        else:
-            exact_match_leftright_dict[em[0]] = [em[1]]
-        if em[1] in exact_match_rightleft_dict:
-            exact_match_rightleft_dict[em[1]].append(em[0])
-        else:
-            exact_match_rightleft_dict[em[1]] = [em[0]]
-
-    count_leftright_duplicates = 0
-    count_rightleft_duplicates = 0
-
-    for k, v in exact_match_leftright_dict.items():
-        if len(v) > 1:
-            count_leftright_duplicates += 1
-
-    for k, v in exact_match_rightleft_dict.items():
-        if len(v) > 1:
-            count_rightleft_duplicates += 1
 
     with open(output_path, "w") as f:
         json.dump(keep_exact_match, f, indent=4)
