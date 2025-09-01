@@ -24,10 +24,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Droid"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/droid",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/droid"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Droids",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Droids"
     ],
@@ -130,6 +126,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Swoop",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Swoop"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/droid",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/droid"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/The_Force",
@@ -392,10 +392,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mokk_Stronghold"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/ic",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Wookieepedia:Manual_of_Style"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mol_Ni%27mai",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mol_Ni%27mai"
     ],
@@ -550,10 +546,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Force_Powers",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Force_power/Legends"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/L",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/location"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Assault_Gunboat",
@@ -788,10 +780,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/A-1_Deluxe_Floater"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/main",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/main"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/M",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mission"
     ],
@@ -830,10 +818,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Zabrak",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Zabrak"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/C",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/c"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Gran",
@@ -994,10 +978,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Stormtrooper_armor",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Stormtrooper_armor"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Structures",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/structure"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Structures",
@@ -1232,10 +1212,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Foodstuff"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Event",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/event"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Events",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Events"
     ],
@@ -1386,10 +1362,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Pets",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Pets"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Pet",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/pet"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Grenades",
@@ -2172,10 +2144,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Errik_Darksider"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/dnt",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Dark_Nest_Trilogy"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Research_Center",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Research_Center"
     ],
@@ -2218,6 +2186,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/SWG_Wiki",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Main_Page"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/main",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/main"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Tusken_Cave",
@@ -3180,10 +3152,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Nourishing_Vita-Caps"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/home",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Home"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Melios_Purl",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Melios_Purl"
     ],
@@ -3606,10 +3574,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Stormtrooper_Squad_Leader",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Stormtrooper_Squad_Leader"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/nt",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/NT_600"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Arachne",
@@ -6646,10 +6610,6 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/property/notes",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/property/notes"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/class/game",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/property/game"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Regeneration",

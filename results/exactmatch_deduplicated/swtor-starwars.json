@@ -212,12 +212,12 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Kel_Dor"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Planets",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Planet"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/planet",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/planet"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Planets",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Planet"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Category:Planets",
@@ -314,10 +314,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Force_Ghost",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Force_ghost"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/credits",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/credits"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Galactic_Credit",
@@ -476,12 +472,12 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Stun"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Category:Media",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Media"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/media",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/media"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Category:Media",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Media"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Space_station",
@@ -1124,12 +1120,12 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Force_choke"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/species",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/species"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Species",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Species"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/species",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/species"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Hoth_(Individual)",
@@ -1174,10 +1170,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Category:Voss",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Voss"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/space_battle",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Space_warfare"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Vaiken_Spacedock",
@@ -1502,10 +1494,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Vima_Sunrider",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Vima_Sunrider"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/loot",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/List_of_phrases_and_slang/Legends"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Glacial_Fissure",
@@ -2180,10 +2168,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sith_apprentice/Legends"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Event",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/event"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Xelian",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Xelian"
     ],
@@ -2624,6 +2608,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Clan_Vizla"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/credits",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/credits"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Moracen",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Moracen"
     ],
@@ -2962,10 +2950,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Carida",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Carida"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Dialogue",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/class/dialogue"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Nercathi_clan",
@@ -5964,20 +5948,12 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Harvap"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/opening_crawl",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Opening_crawl"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Sarria_Jevad",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sarria_Jevad"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Cale_Berkona",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Cale_Berkona"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/property/x",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/X"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Mako",
@@ -8752,10 +8728,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Yallenkeljo"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/stronghold",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Stronghold"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Kaldona",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Kaldona"
     ],
@@ -10420,10 +10392,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Chemilizard"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/quest",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Quest"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/SD-0",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/SD-0"
     ],
@@ -10578,10 +10546,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/property/before",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/property/before"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/class/darkside",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Darkside"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Dommu",

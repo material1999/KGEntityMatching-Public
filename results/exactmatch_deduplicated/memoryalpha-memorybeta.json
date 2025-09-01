@@ -400,12 +400,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Shapeshifter"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tng",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/tng"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Star_Trek:_The_Next_Generation"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tng",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/tng"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nilani_Kahn",
@@ -744,12 +744,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Helium"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Reference_works",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Reference_work"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Reference_books",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Reference_books"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Reference_works",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Reference_work"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_Empire",
@@ -1308,10 +1308,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Video_games"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Recreational_activities",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/game"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Recreation",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Recreation"
     ],
@@ -1330,10 +1326,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/IKS",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/IKS"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/iks",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/iks"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Original_Series",
@@ -1488,12 +1480,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Andorian_Imperial_Guard"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/st",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/st"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Star_Trek"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/st",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/st"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Star_Trek",
@@ -1912,12 +1904,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Andoria"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/uss",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/uss"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Yesterday%27s_Enterprise_(episode)",
@@ -2106,10 +2098,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tzenkethi_raider",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Tzenkethi_raider"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starship_class",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/starship_class"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Way_of_D%27era",
@@ -3408,14 +3396,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Weapon"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/defenses",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/defenses"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/armament",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/armament"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lighthouse",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Lighthouse"
     ],
@@ -3700,12 +3680,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Transporter"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/beam",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/beam"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Transporter_technology",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Transporter_technology"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/beam",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/beam"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rigelian",
@@ -6392,10 +6372,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Periodic_table"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Element",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/element"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Zaranite",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Zaranite"
     ],
@@ -7090,10 +7066,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Moon",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Moon"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/satellites",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/satellites"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Krenim_weapon_ship",
@@ -13184,10 +13156,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Worlds_of_Star_Trek:_Deep_Space_Nine,_Volume_Three"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Auxiliary_space_vessel",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/auxiliary_craft"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Leonard_McCoy_(alternate_reality)",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Leonard_McCoy_(alternate_reality)"
     ],
@@ -15608,10 +15576,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Stern"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/crew",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/crew"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Captain%27s_log",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Captain%27s_log"
     ],
@@ -16118,6 +16082,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Starfleet_personnel_(alternate_reality)",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Starfleet_personnel_(alternate_reality)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/crew",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/crew"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/What_You_Leave_Behind_(episode)",
@@ -26826,10 +26794,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chirurgeon",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Chirurgeon"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/University_of_California,_Berkeley",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/cal"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Epsilon",
@@ -43724,10 +43688,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/NX-01"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/alt",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Alt"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Anaphasic_energy",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Anaphasic_energy"
     ],
@@ -43794,6 +43754,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_Communications_Service",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Cardassian_Communications_Service"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/iks",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/iks"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Internment_Camp_371",
@@ -48300,10 +48264,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Victor_Hugo"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/disambiguation",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Disambiguation"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rockefeller_Center",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Rockefeller_Center"
     ],
@@ -48764,10 +48724,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Mold"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Web",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/web"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cumberland",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS_Cumberland"
     ],
@@ -49074,10 +49030,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Betelgeusians",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Betelgeusians"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Quote",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/quote"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Libra",
@@ -50164,10 +50116,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Anne_Jameson"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Association",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/association"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Adventures",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Star_Trek_Adventures"
     ],
@@ -50528,10 +50476,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Ketha_Lowlands"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Birthplace",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/birthplace"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Basai_Master",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Basai_master"
     ],
@@ -50676,6 +50620,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Rossa"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/defenses",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/defenses"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Keith_L._Davis",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Keith_L._Davis"
     ],
@@ -50738,10 +50686,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Julia_Ecklar",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Julia_Ecklar"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Caption",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/caption"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alfredo_Pedillo_Jose",
@@ -51200,10 +51144,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/California_Institute_of_Technology"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Population",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/population"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Newton",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Newton_(disambiguation)"
     ],
@@ -51472,10 +51412,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/headOfGovernment"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Weight",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/weight"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tycho_crater",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Tycho_crater"
     ],
@@ -51556,40 +51492,16 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Travers"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Classification",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/classification"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Climate",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/climate"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Offspring",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/children"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Grissom_personnel",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:USS_Grissom_personnel"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Occupation",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/occupation"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/A_Matter_of_Perspective",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/A_Matter_of_Perspective"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/UFC",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/ufc"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/imagecap",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/imagecap"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alias",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/alias"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Takarans",
@@ -51616,18 +51528,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/twoimg"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/FGC",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/fgc"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Grade",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/class/a"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Spouse",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/spouse"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/partOf",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/partOf"
     ],
@@ -51648,16 +51548,16 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/director"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/satellites",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/satellites"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/cast",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/cast"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/combatant",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/combatant"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Serial_number",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/serialNumber"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Kalandans",
@@ -51668,10 +51568,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/currency"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Names",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/names"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/language",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/language"
     ],
@@ -51680,16 +51576,12 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/decks"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sibling",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/brother"
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/armament",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/armament"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/length",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/length"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/born",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/born"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/url",
@@ -51706,10 +51598,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/headOfState",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/headOfState"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nickname",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/nickname"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/image",

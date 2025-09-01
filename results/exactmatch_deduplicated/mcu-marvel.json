@@ -2112,10 +2112,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nidavellir"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ed",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/class/ed"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/M.O.D.O.K.",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/M.O.D.O.K."
     ],
@@ -3370,10 +3366,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Metro-General_Hospital",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Metro-General_Hospital"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/marvel",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sakaar/Gallery",
@@ -5076,10 +5068,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Carl_Hoffman_(Earth-199999)"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/armor",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Armor"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_Eaves",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_Eaves"
     ],
@@ -6258,10 +6246,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Steph_Green",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Steph_Green"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/actor",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Actor"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rosalind_Price",
@@ -7796,10 +7780,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Casket_of_Ancient_Winters/Gallery"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/comic",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Comic"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bashenga",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bashenga"
     ],
@@ -7862,14 +7842,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Gale",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Gale_(Institute)_(Earth-616)"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/book",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Book"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/event",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Glossary:Event"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Azzuri",
@@ -10372,10 +10344,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/St._Charles"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/item",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Item"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Holly_Dale",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Holly_Dale"
     ],
@@ -10422,10 +10390,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/DJ_Doyle",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/DJ_Doyle"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/location",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Location"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Blog_posts",
@@ -10536,10 +10500,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Kate_Woods"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/vehicle",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Vehicle"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kunar",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Kunar"
     ],
@@ -10642,10 +10602,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kendall_Rogers",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Kendall_Rogers"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Trivia",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/property/trivia"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nathan_Louis_Jackson",

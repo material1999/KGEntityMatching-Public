@@ -12,22 +12,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Turbolift"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/tos",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tos"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/voy",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/voy"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/tng",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tng"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/ent",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/ent"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek"
     ],
@@ -46,6 +30,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/IKS_Toh%27Kaht",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/IKS_Toh%27Kaht"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/tng",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tng"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Galen_border_conflicts",
@@ -256,6 +244,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ship"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/voy",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/voy"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Elements",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Elements"
     ],
@@ -326,6 +318,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/DY_class",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/DY-500_class"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/tos",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/tos"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Societies_and_cultures",
@@ -602,6 +598,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Talos_IV",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Talos_IV"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/ent",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/class/ent"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mary_Janowski",
@@ -934,10 +934,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sciences_division",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sciences_division"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/mg",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Earth_measurements"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Monac_shipyards",
@@ -2548,10 +2544,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Astronomical_objects"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/origins",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Origins"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701-B)",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701-B)"
     ],
@@ -3922,10 +3914,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Breen_attack_on_Earth",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Breen_attack_on_Earth"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/quote",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Quote"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delta_Flyer",
@@ -8760,10 +8748,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alynna_Nechayev"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/citation",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Citation"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/SS_Seattle",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/SS_Seattle"
     ],
@@ -10084,10 +10068,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Toron_class"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/liberty",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Liberty"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_McCall",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_McCall"
     ],
@@ -10810,10 +10790,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Setlik_III_massacre",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Setlik_III_massacre"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/class/unit",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Unit"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2184",
@@ -12468,10 +12444,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Zeta"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Reference",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/reference"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2095",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2095"
     ],
@@ -12774,10 +12746,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2041",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2041"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Active",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/active"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Help",
