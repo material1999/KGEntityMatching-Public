@@ -38,6 +38,15 @@ python exactmatch.py
 EXACT MATCH DEDUPLICATE:
 python exact_match_deduplicate.py -i /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/exactmatch_all/label_altlabel -o /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/exactmatch_deduplicated/label_altlabel
 
+FOUND PAIRS DEDUPLICATE:
+python score_deduplicate.py -i /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/dogtag_long_top100_rerank -o /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/dogtag_long_top100_rerank_deduplicated
+
+UNION RESULTS:
+python union_pairs.py -em /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/exactmatch_deduplicated -fp /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/dogtag_long_top100_rerank_deduplicated -o /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/union_median -m median
+
+EVALUATE RESULTS:
+python eval_folder.py -p /Users/matevass/Documents/Projects/KGEntityMatching-Public/results/union_median
+
 RERANKED - TOPX:
 python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_reranked100 -k 100 --gpu
 python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_reranked100 -k 100 --gpu
