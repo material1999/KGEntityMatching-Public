@@ -26,7 +26,7 @@ args = parser.parse_args()
 # model_id = "meta-llama/Llama-3.1-8B"
 # model_id = "meta-llama/Llama-3.1-70B-Instruct"
 # model_id = "meta-llama/Llama-3.1-8B-Instruct"
-token = "XY"
+token = "TOKEN"
 
 
 tokenizer = AutoTokenizer.from_pretrained(args.model, token=token)

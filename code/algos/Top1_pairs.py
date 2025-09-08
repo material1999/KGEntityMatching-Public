@@ -4,7 +4,7 @@ from utils.loaders import gold_folder_path, load_gold
 from sentence_transformers import util, SentenceTransformer
 from sentence_transformers.util import cos_sim
 import argparse
-from utils.dedup import select_max_similarity
+from utils.dedup import select_max_similarity, same_type_filter
 from utils.eval import evaluate_preds_extended_discard
 
 parser = argparse.ArgumentParser()
@@ -33,8 +33,9 @@ for gold in golds:
         top1pair = toppairs[0]
         pairs.append([k, top1pair[0], top1pair[1]])
 
+    pairs = same_type_filter(pairs)
     pairs = select_max_similarity(pairs)
-    pairs_only = [[row[0], row[1]] for row in pairs]
+    pairs_only = [[row[0], row[1], row[2]] for row in pairs]
 
     with open(os.path.join(args.output, gold), "w") as f:
         json.dump(pairs_only, f)
