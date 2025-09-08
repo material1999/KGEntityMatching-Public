@@ -90,6 +90,8 @@ for file in files:
     found_pairs_path = os.path.join(args.found, file)
     output_path = os.path.join(args.output, filename + ".json")
 
+    print(filename)
+
     small = filename.split("-")[0]
     big = filename.split("-")[1]
 
