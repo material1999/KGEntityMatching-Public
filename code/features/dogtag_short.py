@@ -160,7 +160,7 @@ for graph_name in graphs_names:
     if not os.path.exists(os.path.join(args.output, "str")):
         os.makedirs(os.path.join(args.output, "str"))
     with open(os.path.join(args.output, "raw", f"{graph_name_clean}.json"), "w") as f:
-        json.dump(neighbourhood, f)
+        json.dump(neighbourhood, f, indent=4)
 
     with open(os.path.join(args.output, "str", f"{graph_name_clean}.json"), "w") as f:
-        json.dump(neighbourhood_str, f)
+        json.dump(neighbourhood_str, f, indent=4)
