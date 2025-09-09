@@ -1,4 +1,9 @@
+import sys
 import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from algos.utils.dedup import same_type_filter
 import argparse
 import json
 from rapidfuzz import fuzz, process
@@ -14,7 +19,8 @@ if not os.path.exists(args.output):
 files = os.listdir(args.input)
 
 for file in files:
-
+    if "stats.json" in file:
+        continue
     filename, extension = os.path.splitext(file)
     input_path = os.path.join(args.input, file)
     output_path = os.path.join(args.output, filename + ".json")
@@ -27,11 +33,7 @@ for file in files:
 
     keep_exact_match = list()
     exact_match_rightleft_dict = dict()
-    exact_matches = list()
-
-    for em in exact_match:
-        if em[0].split("/")[4] == em[1].split("/")[4]:
-            exact_matches.append(em)
+    exact_matches = same_type_filter(exact_match)
 
     for em in exact_matches:
         if em[1] in exact_match_rightleft_dict:
