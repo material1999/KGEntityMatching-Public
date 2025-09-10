@@ -22,6 +22,7 @@ parser.add_argument("-p", "--pairs", help="TopX pairs folder path")
 parser.add_argument("-d", "--dogtag", help="Dogtag description folder path")
 parser.add_argument("-o", "--output", help="Output folder")
 parser.add_argument("-m", "--method", type=int, default=1, help="Options: [1,2], 1 - Not strict, 2 - Strict")
+parser.add_argument("-s", '--str', action='store_true', help='input is str or dict-like-structure')
 args = parser.parse_args()
 
 
@@ -138,8 +139,9 @@ for graph_pair in graph_pairs:
     with open(os.path.join(args.dogtag, g2 + ".json"), "r") as f:
         g2_dogtags = json.load(f)
 
-    g1_dogtags = rows_to_str(g1_dogtags)
-    g2_dogtags = rows_to_str(g2_dogtags)
+    if args.str is False:
+        g1_dogtags = rows_to_str(g1_dogtags)
+        g2_dogtags = rows_to_str(g2_dogtags)
 
     input_rows = list()
 
