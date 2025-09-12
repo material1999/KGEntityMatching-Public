@@ -17,6 +17,10 @@ files4 = {
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_short_reranked100_deduplicated/stats.json": "union_dogtag_short_reranked100_deduplicated",
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_short_top10pairs_llm_notstrict_deduplicated/stats.json": "union_dogtag_short_top10pairs_llm_notstrict_deduplicated",
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_short_top10pairs_llm_strict_deduplicated/stats.json": "union_dogtag_short_top10pairs_llm_strict_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_top1/stats.json": "union_dogtag_nb_summaries_top1",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_reranked100_deduplicated/stats.json": "union_dogtag_nb_summaries_reranked100_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated/stats.json": "union_dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_top10pairs_llm_strict_deduplicated/stats.json": "union_dogtag_nb_summaries_top10pairs_llm_strict_deduplicated"
 }
 
 container = dict()
