@@ -4,6 +4,7 @@ import pandas as pd
 import openpyxl
 
 
+'''
 files4 = {
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_long_top1/stats.json": "union_dogtag_long_top1",
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_long_reranked100_deduplicated/stats.json": "union_dogtag_long_reranked100_deduplicated",
@@ -21,6 +22,18 @@ files4 = {
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_reranked100_deduplicated/stats.json": "union_dogtag_nb_summaries_reranked100_deduplicated",
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated/stats.json": "union_dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated",
     "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_union/union_dogtag_nb_summaries_top10pairs_llm_strict_deduplicated/stats.json": "union_dogtag_nb_summaries_top10pairs_llm_strict_deduplicated"
+}
+'''
+
+files4 = {
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_long_top1/stats.json": "threshold_dogtag_long_top1",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_long_reranked100_deduplicated/stats.json": "threshold_dogtag_long_reranked100_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_short_2sentences_top1/stats.json": "threshold_dogtag_short_2sentences_top1",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_short_2sentences_reranked100_deduplicated/stats.json": "threshold_dogtag_short_2sentences_reranked100_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_short_top1/stats.json": "threshold_dogtag_short_top1",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_short_reranked100_deduplicated/stats.json": "threshold_dogtag_short_reranked100_deduplicated",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_nb_summaries_top1/stats.json": "threshold_dogtag_nb_summaries_top1",
+    "/Users/matevass/Documents/Projects/KGEntityMatching-Public/results_threshold/threshold_dogtag_nb_summaries_reranked100_deduplicated/stats.json": "threshold_dogtag_nb_summaries_reranked100_deduplicated",
 }
 
 container = dict()
