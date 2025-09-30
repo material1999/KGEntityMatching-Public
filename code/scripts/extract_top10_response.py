@@ -55,7 +55,7 @@ for file in files:
     llm_pairs = list()
     for index, (nodename, top10) in enumerate(toppairs.items()):
         id_int = extract_id(responses[index])
-        if id_int is None or id_int < 0 or id_int > 10:
+        if id_int is None or id_int < 0 or id_int > len(top10)-1:
             continue
         llm_pairs.append([nodename, top10[id_int-1][0]])
 
