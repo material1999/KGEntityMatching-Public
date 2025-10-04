@@ -616,6 +616,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/currency"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2004",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2004"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Plasma_intercooler",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Plasma_intercooler"
     ],
@@ -832,7 +836,7 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Damar"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_starship_names_(Z)",
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_starship_names",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_starships"
     ],
     [
@@ -970,6 +974,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1989",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1989"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2394",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2394"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Division",
@@ -3064,6 +3072,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Maryland"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/25th_century",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/25th_century"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/To_Boldly_Go",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/To_Boldly_Go"
     ],
@@ -4592,6 +4604,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2133"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_starship_names_(A)",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Unnamed_Federation_starships"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_21",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_21"
     ],
@@ -5564,6 +5580,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Memory_Alpha:Spoiler_policy"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2141",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2141"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Academy",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Academy"
     ],
@@ -5908,6 +5928,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antares_class_(Federation)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Interstellar_Concordium",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Starfleet_Command_II_-_Empires_at_War"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ju%27day_class",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Maquis_raider"
     ],
@@ -6154,6 +6178,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kyle_(Lieutenant)",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kyle"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Fleets",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Fleets"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/New_United_Nations",
@@ -7178,10 +7206,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antares_class_(freighter)",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antares_class_(carrier)"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/25th_century",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/25th_century"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Flag_officer",
@@ -8664,6 +8688,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_uniform_(mid_2260s-early_2270s)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Ranks",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Military_ranks"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Private",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Private"
     ],
@@ -9528,6 +9556,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wraith"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Expanded_Universe:Protection_policy",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Walther_PP"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hawaii",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hawaii"
     ],
@@ -9674,6 +9706,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Universe",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Universe"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2309",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2309"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chicago",
@@ -9874,6 +9910,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dax_(symbiont)",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dax_(symbiont)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starship_exterior_images_(Intrepid)",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Memory_Alpha_images_(Intrepid_class_starships)"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Engineer",
@@ -10298,6 +10338,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Granite",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Granite"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Star_Trek:_Shepard",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shepard_class"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(CV-6)",
@@ -11296,6 +11340,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Birthday"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vengeance",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vengeance"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rhodes",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rhodes"
     ],
@@ -11422,6 +11470,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Damage_control",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Damage_control_team"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Darwin",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Darwin"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_343",

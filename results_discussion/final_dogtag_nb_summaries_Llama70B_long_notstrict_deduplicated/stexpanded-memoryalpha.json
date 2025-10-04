@@ -620,6 +620,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/currency"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2004",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2004"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Plasma_intercooler",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Plasma_intercooler"
     ],
@@ -970,6 +974,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1989",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1989"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2394",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2394"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Division",
@@ -1408,6 +1416,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Equinox"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sovereign_class",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sovereign_class"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Miranda_class",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Miranda_class"
     ],
@@ -1542,10 +1554,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Operation_Blue_Room",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bolian_Operation"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sovereign_class",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sovereign_class"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Betazed",
@@ -5064,6 +5072,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Porthos"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wallace",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wallace_(disambiguation)"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/property/genre",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/genres"
     ],
@@ -5588,6 +5600,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Memory_Alpha:Spoiler_policy"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2141",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2141"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Academy",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Academy_(Earth)"
     ],
@@ -5690,6 +5706,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jana_Haines",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jana_Haines"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2310s",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2310s"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Orbital_bombardment",
@@ -6582,10 +6602,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Staff_officer",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Staff_officer"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2310s",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2310s"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Roger_Korby",
@@ -7924,6 +7940,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kryptonite"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/People",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/People"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Measurements",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Measurements"
     ],
@@ -8346,6 +8366,10 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Order_of_the_Bat%27leth",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Order_of_the_Bat%27leth"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_starships_by_class_(V)",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_starship_classes"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/IKS_Vor%27nak",
@@ -9060,10 +9084,6 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Grissom_(NCC-638)"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/People",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/People"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Monastery",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Monastery"
     ],
@@ -9512,6 +9532,10 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wraith"
     ],
     [
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Expanded_Universe:Protection_policy",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Walther_PP"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hawaii",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hawaii"
     ],
@@ -9536,7 +9560,7 @@
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Talos_star_group"
     ],
     [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Collins",
+        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2309",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2309"
     ],
     [
@@ -9962,10 +9986,6 @@
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Beverages",
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Beverages"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_starships_by_class_(V)",
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_starship_classes"
     ],
     [
         "http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Horta",

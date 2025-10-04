@@ -5316,6 +5316,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ludo_Kressh"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Sith_Academy",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sith_Academy_(Korriban)"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Lorjan_Sakku",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Lorjan_Sakku"
     ],
@@ -8700,10 +8704,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Geeda_(Nar_Shaddaa)"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Sith_Academy",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sith_Academy_(Korriban)"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Suvam_Tan",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Suvam_Tan"
     ],
@@ -9532,6 +9532,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Aryn_Leneer"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Esh-kha",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Esh-kha"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Station_Chief",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Station_chief"
     ],
@@ -9974,10 +9978,6 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Giffis_Fane",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Giffis_Fane"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Esh-kha",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Esh-kha"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/property/secondary",
@@ -11114,6 +11114,10 @@
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Timeline_3:_The_Return_of_the_Mandalorians",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Timeline_3:_The_Return_of_the_Mandalorians"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Cthon",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Cthon"
     ],
     [
         "http://dbkwik.webdatacommons.org/swtor.wikia.com/resource/Warship",

@@ -1088,8 +1088,16 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Dathomir"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Talus_cities",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Cities_on_Talus"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rori_Rebel_Outpost",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Zephyr_Base"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Jedi_abilities",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Force_powers"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Katarn_armor",
@@ -3712,6 +3720,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Solon_Gaw"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Poster_of_a_Ship_Schematic",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Painting"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Narglatch_Cave",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Narglatch_Cave"
     ],
@@ -4056,10 +4068,6 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Gungan"
     ],
     [
-        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Poster_of_Food_Preparation",
-        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Painting"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bone_armor",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bone_armor"
     ],
@@ -4078,6 +4086,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Nuke_(PA)",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Nuke"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Legacy_Quest",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_from_Legacy"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Jener_Mich",
@@ -6920,6 +6932,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Karthakk_system"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Collection_items",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Short_story_collections"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/BARC_Command_Vehicle",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/BARC_Command_Vehicle"
     ],
@@ -7442,6 +7458,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Flower",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Flower"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mynock",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mynock"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Torton",

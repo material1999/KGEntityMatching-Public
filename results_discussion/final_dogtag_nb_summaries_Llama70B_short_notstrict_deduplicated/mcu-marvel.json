@@ -12,8 +12,16 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Phillip_Jones_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXII",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Iron_Man_Armor_MK_XXII_(Earth-199999)/Appearances"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Peggy_Carter",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Peggy_Carter"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Raven_Lewis",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Raven"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Malcolm_Ducasse",
@@ -30,6 +38,14 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Gina_Prince-Bythewood",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Gina_Prince-Bythewood"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Fisola_Olukoya",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange_(Earth-1298)/Gallery"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Stakar_Ogord%27s_Team_Members",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Ravagers_members_(Earth-13122)"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Framework",
@@ -460,6 +476,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bor_Burison_(Earth-616)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ego",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ego_(Earth-616)"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joey_Gutierrez/Quote",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Jose_Gutierrez_(Earth-199999)/Quotes"
     ],
@@ -478,6 +498,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Los_Angeles_Police_Department",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Los_Angeles_Police_Department"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jasper_Sitwell",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jasper_Sitwell"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Astral_Dimension",
@@ -648,6 +672,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guest-Host_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/AKA_Shark_in_the_Bathtub,_Monster_in_the_Bed",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Marvel%27s_Jessica_Jones_Season_2_9/Images"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Athens",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Athens"
     ],
@@ -810,6 +838,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Lawyers",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Lawyers"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hulk",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hulk"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Ten_Rings_Operatives",
@@ -1026,6 +1058,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Austria",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Austria"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Maximus",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Maximus_Boltagon_(Earth-616)"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Lima",
@@ -1256,6 +1292,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Georgetown"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Leviathan",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Leviathan"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Louise_Fisher",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Louise_Fisher_(Earth-199999)"
     ],
@@ -1354,6 +1394,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ramonda",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ramonda_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Night_Thrasher",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Night_Thrasher"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iowa",
@@ -1556,6 +1600,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Cold_War"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Manifest",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Marvel%27s_Luke_Cage_Season_1_7/Images"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Calvin_Zabo",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Calvin_Zabo_(Earth-199999)"
     ],
@@ -1594,6 +1642,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Miklos_Kozlov",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Miklos_Kozlov_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Siberia_(music)",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Siberia"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Infinity_Stones",
@@ -1772,6 +1824,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Greenland"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Luchino_Nefaria",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Count_Nefaria"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Debbie",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Debbie_(Earth-199999)"
     ],
@@ -1802,6 +1858,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sarajevo",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Sarajevo"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Eric",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Eric_(Earth-8107)"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Adam_Warlock",
@@ -1900,6 +1960,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Captain_America:_Super_Soldier"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Esther",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Esther_Brown_(Earth-616)"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Tomas_Calderon",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Tom\u00e1s_Calderon_(Earth-199999)"
     ],
@@ -1918,6 +1982,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Xavier_Marquez",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Xavier_Marquez_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Maria_Hill",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Maria_Hill"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XI",
@@ -2120,6 +2188,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Enoch_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Heather_Rand",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Heather_Rand"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Stark_Resilient",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Resilient_(Earth-616)"
     ],
@@ -2156,6 +2228,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Darter"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Alan_Mandel",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Alan_Mandel"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Domingo_Colon",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Domingo_Colon_(Earth-199999)"
     ],
@@ -2178,6 +2254,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jotunheim",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jotunheim"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bobbi_Morse%27s_Battle_Staves/Gallery",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mockingbird%27s_Battle_Staves/Gallery"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rafi",
@@ -2800,6 +2880,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wisconsin"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Barrow",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Barrow"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Newark",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Newark"
     ],
@@ -2810,6 +2894,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_Polsky",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_Polsky_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Reva_Connors",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Reva_Connors"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Energy_Shield",
@@ -2886,6 +2974,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Kitchen_Irish_Members",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Kitchen_Irish_members_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Speed",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Speed"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Surtur/Quote",
@@ -3046,6 +3138,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Aura",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Aura"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Daniel_Drumm",
@@ -3234,6 +3330,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Witch",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Witch"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ulysses_Klaue/Quote",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Ulysses_Klaue_(Earth-199999)/Quotes"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Zodiac",
@@ -3566,6 +3666,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Schutzstaffel",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Schutzstaffel"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Serpent_Society",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Serpent_Society"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/British_Columbia",
@@ -4092,6 +4196,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Red_Skull"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nebula",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nebula"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Leon",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Leon_(Dogs_of_Hell)_(Earth-199999)"
     ],
@@ -4540,6 +4648,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jeryn_Hogarth_and_Associates_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Contest_of_Champions",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Contest_of_Champions"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Connie_Lin",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Connie_(Earth-199999)"
     ],
@@ -4700,6 +4812,14 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Johnny_Blaze"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michael_Lehr",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michael_Lehr_(Earth-616)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Algeria",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Algeria"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Buenos_Aires",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Buenos_Aires"
     ],
@@ -4778,6 +4898,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Baker_(Terrorist)",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Baker_(Terrorist)_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/M.O.D.O.K.",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/M.O.D.O.K."
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Shane_Black",
@@ -4876,6 +5000,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Fagan_Corners"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Detroit",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Detroit"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elodie_Keene",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Elodie_Keene"
     ],
@@ -4970,6 +5098,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nidavellir",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nidavellir"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nelson_McCormick",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nelson_McCormick"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Carbone_Crime_Family",
@@ -5396,6 +5528,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Scorpion"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Cobbwell",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Professor_Cobbwell"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wehrmacht",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wehrmacht"
     ],
@@ -5656,6 +5792,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hugh_Jones_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Charles_Murphy",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Charles_Murphy"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Karly_Scolari",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Karly_Scolari_(Earth-199999)"
     ],
@@ -5776,6 +5916,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Eye-Spy"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wu",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wu"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Happy_Sam_Sawyer",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Samuel_Sawyer"
     ],
@@ -5810,6 +5954,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Lorelei/Quote",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Lorelei_(Asgardian)_(Earth-616)/Quotes"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/DeVaughn_Nixon",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel%27s_Runaways_Season_1_7"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Chris_McCarver",
@@ -5924,6 +6072,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/World_Security_Council"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Betty_Ross",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Betty_Ross"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kitang",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Kitang_(Earth-616)"
     ],
@@ -5938,6 +6090,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Eva_Belyakov",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Eva_Belyakov_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hive_(Illusion)",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hive_(Earth-199999)/Gallery"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Whitney_Frost",
@@ -6596,6 +6752,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Gordon_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Barack_Obama",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Barack_Obama"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ohio",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ohio"
     ],
@@ -6836,6 +6996,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_Raymond"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/A.I.M.",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/A.I.M."
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Outriders",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Outriders_(Race)"
     ],
@@ -6926,6 +7090,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_II",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_II_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sophie_Cosson",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Thor:_The_Dark_World/Images"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Emil",
@@ -7568,6 +7736,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Damage_Control_members"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Markman",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Iron_Man_2_(film)/Images"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Characters_Killed_by_Lash",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Killed_by_Lash"
     ],
@@ -7676,6 +7848,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Super-Soldier_Serum/Gallery"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mar-Vell",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mar-Vell"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jack_Taggart",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Firepower"
     ],
@@ -7710,6 +7886,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Echo_Park",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Echo_Park"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Fletcher",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Fletcher_(Earth-616)"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Images_of_merchandise",
@@ -7848,6 +8028,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/United_States_Marshals_Service"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Anthony_Lacza",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Daredevil"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Frampton",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Frampton_(Earth-199999)"
     ],
@@ -7948,6 +8132,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Tony_Isabella/Editor"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/2017",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:2017"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Characters_Killed_by_Ronan_the_Accuser",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Killed_by_Ronan_the_Accuser"
     ],
@@ -7990,6 +8178,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ned_Leeds",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ned_Leeds"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Lindsey_Allen",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Lindsey_Allen"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Tivan_Group",
@@ -8284,6 +8476,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Obedience_Disk"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/H.A.M.M.E.R.",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/H.A.M.M.E.R."
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Stark-Fujikawa",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Stark-Fujikawa"
     ],
@@ -8356,6 +8552,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jennifer_Phang"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Volstagg/Quote",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Volstagg_(Earth-199999)/Quotes"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Vijay_Nadeer",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Vijay_Nadeer_(Earth-199999)/Mentions"
     ],
@@ -8394,6 +8594,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Images",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Images"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Runaways_Members",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Runaways_members"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Lawrence_Trilling",
@@ -8472,6 +8676,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Luke_Cage"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joe_Harnell",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joe_Harnell"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Maria_Rambeau",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Maria_Rambeau_(Earth-616)"
     ],
@@ -8522,6 +8730,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Moon",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Luna_(Moon)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Panther_Habit/Gallery",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Panther_Habit/Gallery"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jonathan_M._Goldstein",
@@ -8630,10 +8842,6 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/property/years",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/property/years"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Leviathan",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Leviathan"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/AC/DC",
@@ -8790,6 +8998,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bi-Beast",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bi-Beast"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Aida",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/A.I.D.A."
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sebastian_Derik/Gallery",
@@ -9096,12 +9308,24 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Fridge/Gallery"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Vanaheim",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Vanaheim"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Council_of_Nine_Operatives",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Council_of_Nine"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Flores_(LAPD)",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Lieutenant_Flores"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mack",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Agent_Mack_(Earth-199999)"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ikaris",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ikaris"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Centaurians",
@@ -9236,6 +9460,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/S.H.I.E.L.D._Helicarrier/Gallery"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kingpin/Gallery",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel%27s_Daredevil/Gallery"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Green",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Green_(Earth-1218)"
     ],
@@ -9336,6 +9564,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Saint_B\u00e9n\u00e9zet_Retirement_Care"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Zanda",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Zanda"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Moloka_Dar",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Moloka_Dar"
     ],
@@ -9404,12 +9636,12 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Saint_Patrick%27s_Cathedral"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wand_of_Watoomb",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wand_of_Watoomb"
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Runaways_(TV_series)_Weapons",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Runaways_Equipment"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/The_Dark_at_the_End_of_the_Tunnel/Gallery",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel%27s_Daredevil/Gallery"
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wand_of_Watoomb",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wand_of_Watoomb"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Connecticut",
@@ -9462,6 +9694,14 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Gamora/Quote",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Gamora/Quotes"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Juan_Doe",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Juan_Doe"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Seamus",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Seamus_MacGillicuddy_(Earth-616)"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dwight_Little",
@@ -9582,6 +9822,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dearbhla_Walsh",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dearbhla_Walsh"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Felling_Tree_with_Roots",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Marvel%27s_Iron_Fist_Season_1_7/Images"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Advanced_Threat_Containment_Unit_Members",
@@ -9968,6 +10212,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Abu_Bakaar_(Earth-199999)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sandbox",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel_Database:Sandbox"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Monolith_(disambiguation)",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Monolith"
     ],
@@ -10130,6 +10378,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Eye_of_Agamotto/Gallery",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Eye_of_Agamotto/Gallery"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Berserkers",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Berserkers"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Secret_Warriors_Members",
@@ -10388,10 +10640,6 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Super-Soldiers"
     ],
     [
-        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Runaways_Members",
-        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Runaways_members"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dan_Jolley",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dan_Jolley"
     ],
@@ -10516,6 +10764,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nicaragua"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ajiona_Alexus",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Runaways_Vol_1_5"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/James_Brown",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/James_Brown"
     ],
@@ -10566,6 +10818,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Daniel_Govar",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Daniel_Govar/Penciler"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_C._Kelley",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_C._Kelley"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:New_Warriors",
@@ -10940,6 +11196,10 @@
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Captain_Marvel_(film)/Images"
     ],
     [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Angel_Parker",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Runaways_Vol_2_4"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/class/character",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/class/character"
     ],
@@ -11014,6 +11274,10 @@
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Milan_Cheylov",
         "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Milan_Cheylov/Director"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Steve_Kurth",
+        "http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Steve_Kurth/Cover_Artist_Images"
     ],
     [
         "http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elizabeth_Rudnick",

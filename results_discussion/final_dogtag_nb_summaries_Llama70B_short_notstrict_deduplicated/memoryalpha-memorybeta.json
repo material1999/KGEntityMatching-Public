@@ -604,6 +604,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Sela"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Genome_colony",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Genome_colony"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ill_Wind,_Part_Three",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Ill_Wind,_Part_Three"
     ],
@@ -674,6 +678,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Unnamed_Deep_Space_9_personnel",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Unnamed_Deep_Space_9_personnel"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/892-IV",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Magna_Roma"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gorath",
@@ -3390,6 +3398,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Repetitive_epic",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Repetitive_epic"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth_subnational_entities",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Earth_subnational_entities"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter",
@@ -6252,7 +6264,7 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Astatine"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Trilithium",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Trilithium_resin",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Trilithium_(SCISEC_Brief)"
     ],
     [
@@ -8098,6 +8110,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Orbital_shuttle",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Orbital_shuttle"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Kreetassans",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Kreetassans"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/A_Failure_to_Communicate",
@@ -12808,10 +12824,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Captain%27s_log,_USS_Enterprise_(NCC-1701-D),_2368"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Genome_colony",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Genome_colony"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Coca-Cola",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Coca-Cola"
     ],
@@ -13622,6 +13634,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rugal",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Rugal"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delta_Vega",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Delta_Vega"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Debtors%27_Planet",
@@ -17808,6 +17824,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Unnamed_sectors"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1967",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/1967"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/G1_star",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/G_class_star"
     ],
@@ -18524,6 +18544,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/World_Against_Time"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon-Cardassian_Alliance_personnel",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Klingon-Cardassian_Alliance"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lek",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Lek"
     ],
@@ -18998,6 +19022,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/World_War_III",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/World_War_III"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Holographic_projector",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Holographic_projector"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Torture",
@@ -22368,10 +22396,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Adah"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/892-IV",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Magna_Roma"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_New_Frontier",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Star_Trek:_New_Frontier"
     ],
@@ -22402,10 +22426,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Shocks_of_Adversity",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/The_Shocks_of_Adversity"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Kreetassans",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Kreetassans"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Frontier_Maverick_of_the_West",
@@ -23094,6 +23114,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Structural_integrity_field",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Structural_integrity_field"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2360s",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Memory_Beta_Chronology:_2360s"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/November",
@@ -26384,6 +26408,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Boxing"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jes\u00fas_Salvador_Trevi\u00f1o",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Vis_\u00e0_Vis"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Captain%27s_Log:_Pike",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Captain%27s_Log:_Pike"
     ],
@@ -27340,12 +27368,20 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Takret"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Collision_Course",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Collision_Course"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Akaar",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Akaar"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Defiant_class",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Defiant_class"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2298",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/2298"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Carol_Marcus",
@@ -29136,6 +29172,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/A_Handful_of_Dust"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Starfleet_flag_officers",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Starfleet_flag_officers"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tarod_IX",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Tarod_IX"
     ],
@@ -29750,6 +29790,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/John_Warner",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/John_Warner"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Voyager_personnel",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS_Voyager_personnel"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dahkur_Hills",
@@ -31976,10 +32020,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Tholian_silk"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Holographic_projector",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Holographic_projector"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Suleiman",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS_Suleiman_(24th_century)"
     ],
@@ -33314,6 +33354,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Basso_Tromac",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Basso_Tromac"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Odysseus",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Odysseus"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Soda_pop",
@@ -35596,6 +35640,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Glob_fly"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:User_eo",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:User_cy"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Assimilation",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Assimilation"
     ],
@@ -35706,6 +35754,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Memory_Alpha:Nitpick",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Memory_Beta:Introduction"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2142",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/2142"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Small_World",
@@ -36378,6 +36430,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T%27lana",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/T%27lana"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Orions",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Unnamed_Orion_starships"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gillian_Taylor",
@@ -37516,7 +37572,7 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS_Titan"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Curie_(shuttlecraft)",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Curie",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Curie_(NCC-1701-D/03)"
     ],
     [
@@ -39144,7 +39200,7 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Fishing"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Scientists",
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Scientists",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Scientists"
     ],
     [
@@ -39494,6 +39550,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Calondia_IV",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Calondia_IV"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Bajor",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Bajor"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alabama",
@@ -40444,10 +40504,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Kim_Rhodes"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth_subnational_entities",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Earth_subnational_entities"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ann_Flood",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Ann_Flood"
     ],
@@ -41314,10 +41370,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cold_Fusion",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Cold_Fusion"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Starfleet_flag_officers",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Starfleet_flag_officers"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Argo_(buggy)",
@@ -43360,6 +43412,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Bajoran_religion"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Athena",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Athena"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Gallamites",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Gallamites"
     ],
@@ -43558,6 +43614,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Icarus_IV",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Icarus_IV"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2128",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/2128"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Deck_plating",
@@ -44078,6 +44138,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Militaries",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Military"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Claw",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Claw"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Thompson",
@@ -45408,6 +45472,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:MACO_personnel"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Venezuela",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Venezuela"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_science_vessel",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Federation_science_vessel"
     ],
@@ -46156,10 +46224,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Isolation_Ward_4"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Voyager_personnel",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/USS_Voyager_personnel"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Global_warming",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Global_warming"
     ],
@@ -46524,6 +46588,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Prisons_and_penal_colonies"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Order_480-G",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Homo_Hansonii"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nitrogen",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Nitrogen"
     ],
@@ -46692,10 +46760,6 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Kenneth_Branagh"
     ],
     [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hansen%27s_Planet_anthropoid",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Homo_Hansonii"
-    ],
-    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hutet_labor_camp",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Hutet_labor_camp"
     ],
@@ -46836,6 +46900,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Cancer"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1965",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/1965"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Psi",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Psi"
     ],
@@ -46858,10 +46926,6 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gravett_Island",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Gravett_Island"
-    ],
-    [
-        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1967",
-        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/1967"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Heinrich_Schliemann",
@@ -47656,6 +47720,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Jennifer_McCarthy"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Mirror_universe_inhabitants",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Mirror_universe_characters"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Borg_drones",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:Borg_Collective"
     ],
@@ -47816,6 +47884,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Larhana"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2049",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/2049"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Broht_&_Forrester",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Broht_and_Forester"
     ],
@@ -47962,6 +48034,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Old_World_calendar",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Old_Calendar"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2119",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Category:2119"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Fleisher",
@@ -48678,6 +48754,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Pants",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Trousers"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Captain%27s_log,_USS_Enterprise_(NCC-1701-D),_2365",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Captain%27s_log,_USS_Enterprise_(NCC-1701-D),_2365"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ardra",
@@ -51112,6 +51192,10 @@
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Republic_(government)"
     ],
     [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/property/children",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/property/children"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Septimus_III",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Septimus_III"
     ],
@@ -51122,6 +51206,10 @@
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/David_Morton",
         "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/David_Morton"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cygnus",
+        "http://dbkwik.webdatacommons.org/memory-beta.wikia.com/resource/Cygnus"
     ],
     [
         "http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Memory_Alpha:Memorable_quotes",

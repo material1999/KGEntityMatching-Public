@@ -1084,6 +1084,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Aleas_Rans%27ery"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Talus_cities",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Cities_on_Talus"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rori_Rebel_Outpost",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Zephyr_Base"
     ],
@@ -4716,6 +4720,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Arachne"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Commander",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Commander/Legends"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Kerritamba_Village",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Kerritamba_Village"
     ],
@@ -4958,6 +4966,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Help_Farmer_Pol_Handerin",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Pol_Handerin"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Miscellaneous",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Miscellaneous_films"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Eleton_Reactive_Gas",
@@ -7384,6 +7396,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Flower"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mynock",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mynock"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Torton",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Torton"
     ],
@@ -7950,6 +7966,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Sordaan_Xris",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sordaan_Xris"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Administration",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Wookieepedia_administration"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Ankuran",

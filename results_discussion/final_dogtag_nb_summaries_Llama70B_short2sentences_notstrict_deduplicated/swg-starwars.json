@@ -1076,6 +1076,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Dathomir"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Talus_cities",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Cities_on_Talus"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rori_Rebel_Outpost",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Zephyr_Base"
     ],
@@ -4052,6 +4056,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Nuke"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Legacy_Quest",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_from_Legacy"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Jener_Mich",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Jener_Mich"
     ],
@@ -6356,6 +6364,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Blerx_Tango"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Hospital",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Medcenter/Legends"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Personal_shield_generator",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Personal_energy_shield/Legends"
     ],
@@ -6912,6 +6924,10 @@
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Karthakk_system"
     ],
     [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Collection_items",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Short_story_collections"
+    ],
+    [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/BARC_Command_Vehicle",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/BARC_Command_Vehicle"
     ],
@@ -7458,6 +7474,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Flower",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Flower"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mynock",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mynock"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Torton",
@@ -8518,6 +8538,10 @@
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/property/organisation",
         "http://dbkwik.webdatacommons.org/starwars.wikia.com/property/organization"
+    ],
+    [
+        "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/ShadowWeave_Caverns",
+        "http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Society_of_Outcasts"
     ],
     [
         "http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Gases",
