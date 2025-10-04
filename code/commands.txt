@@ -37,17 +37,33 @@ python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alig
     # PARSE OUTPUTS
     python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_long_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_strict
     python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_long_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_notstrict
-    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_strict
-    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_notstrict
-    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_2sentences_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_strict
-    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_2sentences_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_notstrict
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_strict
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_notstrict
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_2sentences_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_strict
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_short_2sentences_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_notstrict
 
 #NEIGBOURHOOD GENERATION
-python node_neighbourhood_gather.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb
-python node_nb_promptgen.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb/str -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_prompts
+    python node_neighbourhood_gather.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb
+    python node_nb_promptgen.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb/str -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_prompts
 
     # PARSE OUTPUTS
     python extract_nb_response.py -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/dogtag_nb_prompts_response -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb/str/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries
+    # EMBEDDER
+    python embedder.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_embeddings
+    # TOPX - TOP1
+    python TopX_pairs.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -k 10
+    python Top1_pairs.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top1
+    # TOP10 LLM Selection
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/genai/dogtag_nb_summaries_top10pairs_notstrict/ --method 1 --str
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/genai/dogtag_nb_summaries_top10pairs_strict/ --method 2 --str
+    # PARSING
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_nb_summaries_Llama70B_strict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_strict
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/prompts_outputs/final_dogtag_nb_summaries_Llama70B_notstrict  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_notstrict
+    # Rerank
+    python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_reranked100 -k 100 --gpu
+    python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_reranked10 -k 10 --gpu
+
+
 
 EXACT MATCH:
     python exactmatch.py
@@ -58,6 +74,12 @@ python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_20
 python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_reranked100 -k 100 --gpu
 python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_reranked100 -k 100 --gpu
 
+python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_reranked10 -k 10 --gpu
+python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_reranked10 -k 10 --gpu
+python Reranked_TopX.py -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/str -e /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_embeddings -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long_reranked10 -k 10 --gpu
+
+
+
 
 DEDUPLICATION
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/exactmatch_all/label_altlabel/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/exactmatch_dedup/
@@ -65,6 +87,12 @@ python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_al
 python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked100/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked100_deduplicated/
 python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked100/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked100_deduplicated/
 python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked100/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked100_deduplicated/
+python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked100/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked100_deduplicated/
+
+python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked10/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked10_deduplicated/
+python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked10/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked10_deduplicated/
+python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked10/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked10_deduplicated/
+python score_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked10/ -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked10_deduplicated/
 
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_strict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_strict_deduplicated
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_top10pairs_llm_notstrict_deduplicated
@@ -72,6 +100,9 @@ python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_al
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_notstrict_deduplicated
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_strict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_strict_deduplicated
 python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_top10pairs_llm_notstrict_deduplicated
+
+python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_strict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_strict_deduplicated
+python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated
 
 
 UNION RESULTS:
@@ -103,6 +134,85 @@ python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024
 python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_top10pairs_llm_strict_deduplicated
 python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/exactmatch_all/label_altlabel
 
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked10
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_long_reranked10_deduplicated
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked10
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_reranked10_deduplicated
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked10
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_short_2sentences_reranked10_deduplicated
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked10
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked10_deduplicated
+
+
+
+
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_notstrict
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_notstrict_deduplicated
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_strict
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_top10pairs_llm_strict_deduplicated
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked100
+python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_data/output_pairs/dogtag_nb_summaries_reranked100_deduplicated
 
 MilServer
-python runprompts_accelerate.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_prompts -fi XY -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_llm -m meta-llama/Llama-3.1-70B-Instruct -r
+# python runprompts_accelerate.py -f /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_prompts -fi XY -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_llm -m meta-llama/Llama-3.1-70B-Instruct -r
+
+
+Discussion:
+
+# Short2s TOP10 --> Long as LLM Selection
+    python GenAI_input_generator_retrieval.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -ld /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short2sent_top10pairs_long_notstrict/ --method 1
+
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short2sent_top10pairs_long_notstrict/top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/final_dogtag_short_2sentences_Llama70B_long_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_short_2sentences_Llama70B_long_notstrict
+    python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_short_2sentences_Llama70B_long_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_short_2sentences_Llama70B_long_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_short_2sentences_Llama70B_long_notstrict_deduplicated
+
+#Shuffle top10
+    python shuffle_topx.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle1 -r
+    python shuffle_topx.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle2
+    python shuffle_topx.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle3
+    python shuffle_topx.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences_top10pairs -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle4
+
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle1 -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short_2sentences_top10pairs_notstrict_shuffle1/ --method 1
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle2 -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short_2sentences_top10pairs_notstrict_shuffle2/ --method 1
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle3 -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short_2sentences_top10pairs_notstrict_shuffle3/ --method 1
+    python GenAI_input_generator.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle4 -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_short_2sentences_top10pairs_notstrict_shuffle4/ --method 1
+
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle0 -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/shuffle_s2s_Llama70B_notstrict_shuffle0  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle0
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle1 -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/shuffle_s2s_Llama70B_notstrict_shuffle1  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle1
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle2 -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/shuffle_s2s_Llama70B_notstrict_shuffle2  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle2
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle3 -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/shuffle_s2s_Llama70B_notstrict_shuffle3  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle3
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/dogtag_short_2sentences_top10pairs_shuffle4 -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/shuffle_s2s_Llama70B_notstrict_shuffle4  -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle4
+
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle0
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle1
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle2
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle3
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/shuffles/shuffle4
+
+
+# LLM Summary TOP10 --> Long as LLM Selection
+    python GenAI_input_generator_retrieval.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -ld /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_long/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_long_notstrict/ --method 1 -s1
+
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_long_notstrict/top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/final_dogtag_nb_summaries_Llama70B_long_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_long_notstrict
+    python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_long_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_long_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_long_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_long_notstrict
+
+
+# LLM Summary TOP10 --> Short as LLM Selection
+    python GenAI_input_generator_retrieval.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -ld /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_short_notstrict/ --method 1 -s1
+
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_short_notstrict/top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/final_dogtag_nb_summaries_Llama70B_short_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short_notstrict
+    python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short_notstrict
+
+# LLM Summary TOP10 --> Short2sentences as LLM Selection
+    python GenAI_input_generator_retrieval.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries_top10pairs -d /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_nb_summaries -ld /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/dogtag_short_2sentences/raw -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_short2sentences_notstrict/ --method 1 -s1
+
+    python extract_top10_response.py -t /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/genai/dogtag_nb_summaries_top10pairs_short2sentences_notstrict/top10pairs -r /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/prompts_outputs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict
+    python exact_match_deduplicate.py -i /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict -o /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict_deduplicated
+    python eval_folder.py -p /home/kardosp/entity_alignment/kg_entity_alignment_2024/repo_features/discussion/pairs/final_dogtag_nb_summaries_Llama70B_short2sentences_notstrict
+
+
