@@ -105,6 +105,8 @@ files = os.listdir(args.found)
 
 for file in files:
     filename, extension = os.path.splitext(file)
+    if filename == "stats":
+        continue
     exact_match_path = os.path.join(args.exact, file)
     found_pairs_path = os.path.join(args.found, file)
     output_path = os.path.join(args.output, filename + ".json")
