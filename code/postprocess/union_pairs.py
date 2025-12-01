@@ -1,27 +1,27 @@
-import json
-import statistics
-import os
 import argparse
+import json
+import os
+import statistics
 
 
 def union_em_found(exact_match, found_pairs):
-
     exact_match_left = {em[0] for em in exact_match}
+    exact_match_right = {em[1] for em in exact_match}
     output = list()
 
     for em in exact_match:
         output.append(em)
 
     for pair in found_pairs:
-        if pair[0] not in exact_match_left:
+        if pair[0] not in exact_match_left and pair[1] not in exact_match_right:
             output.append(pair)
 
     return output
 
 
 def union_em_found_mean(exact_match, found_pairs):
-
     exact_match_left = {em[0] for em in exact_match}
+    exact_match_right = {em[1] for em in exact_match}
     found_pairs_nodes = [[item[0], item[1]] for item in found_pairs]
 
     output = list()
@@ -35,18 +35,28 @@ def union_em_found_mean(exact_match, found_pairs):
                     scores_list.append(float(pair[2]))
 
     threshold_val = statistics.mean(scores_list)
-    print(len(scores_list), "/", len(exact_match), "exact match found --> mean score:", threshold_val)
+    print(
+        len(scores_list),
+        "/",
+        len(exact_match),
+        "exact match found --> mean score:",
+        threshold_val,
+    )
 
     for pair in found_pairs:
-        if pair[0] not in exact_match_left and pair[2] >= threshold_val:
+        if (
+            pair[0] not in exact_match_left
+            and pair[1] not in exact_match_right
+            and pair[2] >= threshold_val
+        ):
             output.append(pair)
 
     return output
 
 
 def union_em_found_median(exact_match, found_pairs):
-
     exact_match_left = {em[0] for em in exact_match}
+    exact_match_right = {em[1] for em in exact_match}
     found_pairs_nodes = [[item[0], item[1]] for item in found_pairs]
 
     output = list()
@@ -60,10 +70,20 @@ def union_em_found_median(exact_match, found_pairs):
                     scores_list.append(float(pair[2]))
 
     threshold_val = statistics.median(scores_list)
-    print(len(scores_list), "/", len(exact_match), "exact match found --> median score:", threshold_val)
+    print(
+        len(scores_list),
+        "/",
+        len(exact_match),
+        "exact match found --> median score:",
+        threshold_val,
+    )
 
     for pair in found_pairs:
-        if pair[0] not in exact_match_left and pair[2] >= threshold_val:
+        if (
+            pair[0] not in exact_match_left
+            and pair[1] not in exact_match_right
+            and pair[2] >= threshold_val
+        ):
             output.append(pair)
 
     return output
@@ -84,13 +104,10 @@ if not os.path.exists(args.output):
 files = os.listdir(args.found)
 
 for file in files:
-
     filename, extension = os.path.splitext(file)
     exact_match_path = os.path.join(args.exact, file)
     found_pairs_path = os.path.join(args.found, file)
     output_path = os.path.join(args.output, filename + ".json")
-
-    print(filename)
 
     small = filename.split("-")[0]
     big = filename.split("-")[1]
