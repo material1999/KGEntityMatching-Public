@@ -1,0 +1,21 @@
+Graph,Dogtag,Recall,Found Count,Missing Count
+mcu-marvel,long_top10pairs,0.773245351,1289,378
+mcu-marvel,short_2sentences_top10pairs,0.735452909,1226,441
+mcu-marvel,nb_summaries_top10pairs,0.770845831,1285,382
+mcu-marvel,short_top10pairs,0.697060588,1162,505
+memoryalpha-memorybeta,long_top10pairs,0.896293923,8392,971
+memoryalpha-memorybeta,short_2sentences_top10pairs,0.874185624,8185,1178
+memoryalpha-memorybeta,nb_summaries_top10pairs,0.969027021,9073,290
+memoryalpha-memorybeta,short_top10pairs,0.8038022,7526,1837
+stexpanded-memoryalpha,long_top10pairs,0.939291737,1671,108
+stexpanded-memoryalpha,short_2sentences_top10pairs,0.943788645,1679,100
+stexpanded-memoryalpha,nb_summaries_top10pairs,0.99044407,1762,17
+stexpanded-memoryalpha,short_top10pairs,0.884204609,1573,206
+swg-starwars,long_top10pairs,0.917038359,1028,93
+swg-starwars,short_2sentences_top10pairs,0.902765388,1012,109
+swg-starwars,nb_summaries_top10pairs,0.971454059,1089,32
+swg-starwars,short_top10pairs,0.907225691,1017,104
+swtor-starwars,long_top10pairs,0.961511547,1374,55
+swtor-starwars,short_2sentences_top10pairs,0.944716585,1350,79
+swtor-starwars,nb_summaries_top10pairs,0.981805458,1403,26
+swtor-starwars,short_top10pairs,0.925122463,1322,107
